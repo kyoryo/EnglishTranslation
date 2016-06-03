@@ -17,6 +17,7 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 - ITEM: 70% progress
 - JobQuest: 98% progress
 - some ETC and INTL
+
 ### 2016-06-02 - version 0.0.8 released
 - ITEM: 60% progress
 - UI: Completed UI porting and some of translation made by Me
