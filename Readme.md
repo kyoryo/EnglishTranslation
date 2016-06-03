@@ -5,22 +5,22 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 ## How to Install
 1. Download the archive from release
 2. Copy (the archives).rar ke "~\Tree Of Savior INA\release\languageData"
-3
 3. Right click >> extract here
-
 4. Navigate to folder "~\Tree Of Savior INA\release"
-5
-5. Right click "user.xml" >> edit (notepad)
-
-6. Change Language="Indonesian" to Language="English"
+5. Login into game and English option should be available in Option menu.
 
 ## Some sample Screenshot
 ![Screenshot UI](http://i.imgur.com/lE94lBy.jpg)
 
 ## Changelog
 ### 2016-06-02
+#### version 0.1.0 released
+- ITEM: 70% progress
+- JobQuest: 98% progress
+- some ETC and INTL
+### 2016-06-02
 - ITEM: 60% progress
-version 0.0.8
+#### version 0.0.8 released
 - UI: Completed UI porting and some of translation made by Me
 
 
