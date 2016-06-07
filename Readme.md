@@ -3,8 +3,8 @@
 Because of how shitty Indonesian translation made by Gemscool. I've decided to port the current English Translation Project to Tree Of Savior INA.
 
 ## How to Install
-1. Download the archive from release
-2. Copy (the archives).rar ke "~\Tree Of Savior INA\release\languageData"
+1. Download the archive from [release](https://github.com/kyoryo/EnglishTranslation/releases)
+2. Copy (the archives).rar to "~\Tree Of Savior INA\release\languageData"
 3. Right click >> extract here
 4. Navigate to folder "~\Tree Of Savior INA\release"
 5. Login into game and English option should be available in Option menu.
