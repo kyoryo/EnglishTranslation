@@ -13,6 +13,9 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 ![Screenshot UI](http://i.imgur.com/lE94lBy.jpg)
 
 ## Changelog
+### 2016-06-08 - version 0.1.1 released
+- JobQuest 100%
+- Quest Lv 100: 10%
 ### 2016-06-02 - version 0.1.0 released
 - ITEM: 70% progress
 - JobQuest: 98% progress
