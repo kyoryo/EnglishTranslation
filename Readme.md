@@ -1,5 +1,5 @@
 # Tree Of Savior INA - English Translation Porting (Unofficial)
-----
+
 Because of how shitty Indonesian translation made by Gemscool. I've decided to port the current English Translation Project to Tree Of Savior INA.
 
 ## How to Install
@@ -11,7 +11,9 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 
 
 ## Legal Notes
-Reminder, this patch doesn't count as addon. First thing first, this patch forked from official steam English translation project. Because, second, this patch didn't change the other game values except language, so you can call it save. Also this is absolutely not HARAM.
+Reminder, this patch doesn't count as addon. First thing first, this patch forked from official steam English translation project. Because, second, this patch didn't change the other game values except language, so you can call it save.
+IMC has said that mods and addons are ok and doesn’t go against their Terms Of Service. And why IMC? Because why not?
+Also this is absolutely not HARAM, at least.
 
 ## Some sample Screenshot
 ![Screenshot UI](http://i.imgur.com/lE94lBy.jpg)
@@ -31,6 +33,9 @@ Reminder, this patch doesn't count as addon. First thing first, this patch forke
 - UI: Completed UI porting and some of translation made by Me
 
 
+----
+# Contributing
+Open contribution for transloader and editor. Just tell me if you're interested.
 Merging of your pull request is conditioned on your acceptance to the Contributor Agreement.
 Please indicate that you acknowledge, understand and accept the terms of Contributor Agreement by clicking on the "Agree" button in the Contributor Agreement.
 If you disagree to the terms of the Contributor Agreement, please do not send us any pull requests.
