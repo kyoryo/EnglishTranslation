@@ -9,6 +9,10 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 4. Navigate to folder "~\Tree Of Savior INA\release"
 5. Login into game and English option should be available in Option menu.
 
+
+## Legal Notes
+Reminder, this patch doesn't count as addon. First thing first, this patch forked from official steam English translation project. Because, second, this patch didn't change the other game values except language, so you can call it save. Also this is absolutely not HARAM.
+
 ## Some sample Screenshot
 ![Screenshot UI](http://i.imgur.com/lE94lBy.jpg)
 
@@ -16,6 +20,7 @@ Because of how shitty Indonesian translation made by Gemscool. I've decided to p
 ### 2016-06-08 - version 0.1.1 released
 - JobQuest 100%
 - Quest Lv 100: 10%
+
 ### 2016-06-02 - version 0.1.0 released
 - ITEM: 70% progress
 - JobQuest: 98% progress
